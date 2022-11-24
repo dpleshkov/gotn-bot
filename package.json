@@ -1,0 +1,10 @@
+{
+  "name": "gotn-bot",
+  "version": "1.0.0",
+  "dependencies": {
+    "axios": "^0.24.0"
+  },
+  "scripts": {
+    "start": "node main.js"
+  }
+}
